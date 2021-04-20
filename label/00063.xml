@@ -1,0 +1,38 @@
+<annotation>
+	<folder>img1to100</folder>
+	<filename>00063.png</filename>
+	<path>C:\Users\Amber\OneDrive - University of Exeter\Documents\research project\asianhornets\img1to100\00063.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>AsianHornet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>489</xmin>
+			<ymin>638</ymin>
+			<xmax>598</xmax>
+			<ymax>771</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>AsianHornet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>604</xmin>
+			<ymin>236</ymin>
+			<xmax>711</xmax>
+			<ymax>391</ymax>
+		</bndbox>
+	</object>
+</annotation>
